@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6dkOcrJH0cv_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">IV Leadership HTML</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="IV_Leadership_HTML_ORG">
+    <organization identifier="IV_Leadership_HTML_ORG">
+      <title>IV Leadership HTML</title>
+      <item identifier="MPD_Follow-Up_SCO" isvisible="true" identifierref="__6dkOcrJH0cv_course_id_RES">
+        <title>IV Leadership HTML</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6dkOcrJH0cv_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6iB8S7BPi3X_P_0_196_2000_1107_DX1758_DY1758_CX1476_CY818.png" />
+      <file href="mobile/6gqPJAys4O3_DX160_DY160_CX134_CY134.png" />
+      <file href="mobile/667oulRefoQ_P_0_32_2048_1145_DX1760_DY1760_CX1477_CY826.png" />
+      <file href="mobile/6RLeUuxqf65_DX720_DY720_CX480_CY268.gif" />
+      <file href="mobile/5enJB4gXs09_RG_P_8_41_1500_828_DX1756_DY1756_CX1474_CY814.png" />
+      <file href="mobile/5kWzd5qgedk_DX1438_DY1438_CX1207_CY849.png" />
+      <file href="mobile/6BoKHkA8tqP_X_DX734_DY734_CX85_CY43.png" />
+      <file href="mobile/6BoKHkA8tqP_X_DX734_DY734_CX615_CY310.png" />
+      <file href="mobile/6Nqub4k4PVI_P_0_392_1583_1287_DX1226_DY1226_CX795_CY646.png" />
+      <file href="mobile/6YtXMiKOg1P_DX178_DY178_CX134_CY134.png" />
+      <file href="mobile/6YtXMiKOg1P_DX180_DY180_CX151_CY151.png" />
+      <file href="mobile/6GTl47B0J52_DX1800_DY1800_CX1482_CY68.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5kTGM09Kp1R.js" />
+      <file href="html5/data/js/5vygBrTb4dW.js" />
+      <file href="html5/data/js/5z3q8kVPmpV.js" />
+      <file href="html5/data/js/69Vhv4F5MQB.js" />
+      <file href="html5/data/js/6brXO4riD1W.js" />
+      <file href="html5/data/js/6DwXYD3XsFR.js" />
+      <file href="html5/data/js/6fl8seeL9lh.js" />
+      <file href="html5/data/js/6kapbAVQf2B.js" />
+      <file href="html5/data/js/6mQFqqc7kWQ.js" />
+      <file href="html5/data/js/6n3G5CZZyXA.js" />
+      <file href="html5/data/js/6qdsUPLBFGQ.js" />
+      <file href="html5/data/js/6VtUwzEQqRj.js" />
+      <file href="html5/data/js/6XKWzoOVXjH.js" />
+      <file href="html5/data/js/6ZvFaYyy2J9.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>

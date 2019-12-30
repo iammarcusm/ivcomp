@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="IV Leadership HTML" />
+              <option name="title_text" value="IV Leadership HTML V2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1270,19 +1270,25 @@
         <slidelink slideid="_player.6WQWnqXvoR7" displaytext="Why InterVarsity is Becoming a Competency-Based Organization" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6WQWnqXvoR7.6ZvFaYyy2J9" displaytext="INTERVARSITY’S LEADERSHIP COMPETENCIES" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.6mQFqqc7kWQ" displaytext="Greetings" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.6qdsUPLBFGQ" displaytext="Greetings" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6kapbAVQf2B" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6VtUwzEQqRj" displaytext="Background" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.69Vhv4F5MQB" displaytext="Background" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.5z3q8kVPmpV" displaytext="Background" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.5vygBrTb4dW" displaytext="Why" expand="false" type="slide" />
+            <slidelink slideid="_player.6WQWnqXvoR7.5qrEKukiIgb" displaytext="Background" expand="false" type="slide" />
+            <slidelink slideid="_player.6WQWnqXvoR7.69Vhv4F5MQB" displaytext="Background" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6brXO4riD1W" displaytext="The benefits" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6XKWzoOVXjH" displaytext="What's a competency?" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.5kTGM09Kp1R" displaytext="There are nine?" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6n3G5CZZyXA" displaytext="THE 9 COMPETENCIES" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6DwXYD3XsFR" displaytext="THE 9 COMPETENCIES" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6fl8seeL9lh" displaytext="End" expand="false" type="slide" />
+            <slidelink slideid="_player.6WQWnqXvoR7.5dyQF4t0Tef" displaytext="Exit" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5UmsmKnepy5" displaytext="Old Styles" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5UmsmKnepy5.6e8G4ghJVmY" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5UmsmKnepy5.6rjZlm8M4R0" displaytext="Why" expand="false" type="slide" />
+            <slidelink slideid="_player.5UmsmKnepy5.5bUJWuEBWVc" displaytext="WHAT YOU NEED TO LEAD" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
